@@ -1,0 +1,12 @@
+#one{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  float:left
+}
+#two{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  float:left
+}
